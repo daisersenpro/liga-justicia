@@ -2,6 +2,6 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
-desde github
+desde github prba
 
 desde mi repo local 
